@@ -1,4 +1,7 @@
 ### Hi there 👋
+📫 Email me at: jarsore@gmail.com
+🥤 Genshin Impact 原神（天空岛）UID 108287317 - AR 58 (/≧▽≦)/
+
 
 <!--
 **Jarsore/Jarsore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
+
