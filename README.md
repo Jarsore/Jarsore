@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 📫 Email me at: jarsore@gmail.com
+
 🥤 Genshin Impact 原神（天空岛）UID 108287317 - AR 58 (/≧▽≦)/
 
 
