@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Python and C/C++.
 
-⚡ Fun fact: ① I like reading books.
+⚡ Fun fact: ① A gentleman observes his old words and deeds, and uses them to judge his virtues.
 
 
 <!--
