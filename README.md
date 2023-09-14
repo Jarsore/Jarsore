@@ -8,6 +8,7 @@
 
 ⚡ Fun fact: ① A gentleman observes his old words and deeds, and uses them to judge his virtues.
 
+💬 人生有很多不确定的事情，但是每一场考试的标准答案是确定的。
 
 <!--
 **Jarsore/Jarsore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
